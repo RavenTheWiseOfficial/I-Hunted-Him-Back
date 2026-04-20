@@ -1,0 +1,5 @@
+webcam hijack data via Registry Editor Entry Point
+Last user annotated value 2 
+last time used 1dc0dbff2a64199 
+last time start 1dc0dbfe8a1a0e2
+PersistedInDatabase value 1
